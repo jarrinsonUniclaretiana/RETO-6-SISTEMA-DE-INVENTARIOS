@@ -18,3 +18,4 @@ def costo_desde_eoq(eoq, costo_mantenimiento):
     """
     inventario_promedio = eoq / 2
     return inventario_promedio * costo_mantenimiento
+
